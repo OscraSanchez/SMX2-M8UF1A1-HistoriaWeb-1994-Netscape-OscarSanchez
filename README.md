@@ -19,4 +19,7 @@ Netscape Navigator introdujo varias características innovadoras que lo hicieron
 ## Impacto
 Netscape Navigator dominó el mercado de navegadores web a mediados de los años 90, alcanzando el 75% del mercado en su mejor momento. Su legado incluye la promoción de estándares web abiertos y la inspiración para el desarrollo de futuros navegadores[^4^][4].
 
+## Enlaces de Información
+- [Historia de Netscape Navigator en Wikipedia](https://es.wikipedia.org/wiki/Netscape_Navigator)
+- [Artículo sobre la historia de Netscape](https://www.slashgear.com/1353587/history-netscape-navigator-web-browser-explained/)
 
