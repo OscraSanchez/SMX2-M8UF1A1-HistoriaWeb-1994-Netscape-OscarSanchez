@@ -23,3 +23,8 @@ Netscape Navigator dominó el mercado de navegadores web a mediados de los años
 - [Historia de Netscape Navigator en Wikipedia](https://es.wikipedia.org/wiki/Netscape_Navigator)
 - [Artículo sobre la historia de Netscape](https://www.slashgear.com/1353587/history-netscape-navigator-web-browser-explained/)
 
+---------------
+[^1^][1]: [Web Design Museum](https://www.webdesignmuseum.org/software/netscape-navigator-1-0-in-1994)
+[^2^][2]: [Wikipedia](https://es.wikipedia.org/wiki/Netscape_Navigator)
+[^3^][3]: [SlashGear](https://www.slashgear.com/1353587/history-netscape-navigator-web-browser-explained/)
+[^4^][4]: [Wikipedia](https://en.wikipedia.org/wiki/Netscape_Navigator)
